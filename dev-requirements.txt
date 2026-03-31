@@ -1,4 +1,4 @@
-build==1.4.0
+build==1.4.2
 jupyterhub==5.4.4
 notebook==7.5.5
 pre-commit==4.5.1
