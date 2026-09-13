@@ -1,5 +1,5 @@
 build==1.6.0
-jupyterhub==5.5.1
+jupyterhub==6.0.0
 notebook==7.6.2
 pre-commit==4.6.2
 pytest==9.1.1
